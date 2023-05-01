@@ -29,7 +29,14 @@
               git config --global user.email "your_email"
               
               깃과의 이메일을 맞춰서 "" 안을 작성
-### ➡️
+              
+ * 내 정보 확인하기
+
+
+              git config --list
+              
+              
+## ⬆️ 위의 연결은 해당 컴퓨터에서 한번만 실행하면 됨.
 
 
 
