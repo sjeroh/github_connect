@@ -18,6 +18,11 @@
 
 ![image](https://user-images.githubusercontent.com/36749506/235417896-a0683612-ffa5-41d5-910a-32a8b928077a.png)
 
+![image](https://user-images.githubusercontent.com/36749506/235418053-578c219a-51f7-4da0-9497-eb2c923b360a.png)
+
+ * 유저이름 설정
+
+              $ git config --global user.name"sj" -->"안의 이름은 내가 마음대로"
 
 
 ### ➡️
