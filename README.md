@@ -23,8 +23,12 @@
  * 유저이름 설정
 
               $ git config --global user.name"sj" -->"안의 이름은 내가 마음대로"
+              
+ * 유저 이메일 설정하기(반드시 github에 가입했던 이메일주소와 동일해야한다.)
 
-
+              git config --global user.email "your_email"
+              
+              깃과의 이메일을 맞춰서 "" 안을 작성
 ### ➡️
 
 
