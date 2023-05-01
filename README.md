@@ -53,6 +53,9 @@
             
        * Github의 repository를 만들고 그 주소와 연결하기
             git remote add origin https://github.com/my_user_name/my_new_git_folder.git
+            
+       * 연결이 잘 됐는지 확인하기(꼭 확인 할 필요는 없다)
+            git remote -v (버전을 확인한다.)
 
 
 
