@@ -73,6 +73,17 @@
 
        git push origin master
 
+--------------------------------------------
+
+#Github 협업하는 방법
+
+1. 소스코드 다운로드
+
+   git clone 주소
+   ![image](https://github.com/sjeroh/github_connect/assets/36749506/7f01b2c4-4f99-4697-ae77-c1f978202064)
+
+
+   git clone https://github.com/sjeroh/hanacard_webprt.git (ex)
 
 
 #### 
