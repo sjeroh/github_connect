@@ -85,7 +85,11 @@
 
 
           git clone https://github.com/sjeroh/hanacard_webprt.git (ex)
-   
+          
+          
+ 
+사장 초대를 수락해야한다.
+ 
 2. 브랜치(branch) 만들기
 
    "새 가지가 만들어졌다.."
@@ -112,6 +116,10 @@
 
 최종 합치기
 
+## 사장입장 -------------------------------
+
+- 레파지토리에 사원을 초대 해줘야한다.
+- ![image](https://github.com/sjeroh/github_connect/assets/36749506/e434722a-752d-4576-b23f-44ef82da8aa5)
 
 
 #### 
