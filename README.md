@@ -84,6 +84,15 @@
 
 
    git clone https://github.com/sjeroh/hanacard_webprt.git (ex)
+   
+2. 브렌치(branch) 만들기
+
+   "새 가지가 만들어졌다.."
+   git checkout -b "roh" (""안은 이름이나 적고자하는것)
+
+![image](https://github.com/sjeroh/github_connect/assets/36749506/0cc5c509-361c-411f-bb67-a398e2fd0e0f)
+
+git push origin 이름
 
 
 #### 
