@@ -93,6 +93,8 @@
 
 ![image](https://github.com/sjeroh/github_connect/assets/36749506/0cc5c509-361c-411f-bb67-a398e2fd0e0f)
 
+          git add .
+          git commit -m "text"
           git push origin 이름
 
 ![image](https://github.com/sjeroh/github_connect/assets/36749506/ee407e51-804d-43e9-a614-98f08f72fab3)
