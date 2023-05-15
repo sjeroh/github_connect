@@ -94,6 +94,8 @@
 
 git push origin 이름
 
+![image](https://github.com/sjeroh/github_connect/assets/36749506/ee407e51-804d-43e9-a614-98f08f72fab3)
+위와 같이 가지가 생긴다.
 
 #### 
 
