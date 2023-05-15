@@ -102,7 +102,11 @@
           git push origin 이름
 
 ![image](https://github.com/sjeroh/github_connect/assets/36749506/ee407e51-804d-43e9-a614-98f08f72fab3)
+
 위와 같이 가지가 생긴다.
+
+![image](https://github.com/sjeroh/github_connect/assets/36749506/8a85b2fa-bb79-4a1f-a5af-303528609fc0)
+
 
 #### 
 
