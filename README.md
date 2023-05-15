@@ -79,20 +79,21 @@
 
 1. 소스코드 다운로드
 
-   git clone 주소
+          git clone 주소
    ![image](https://github.com/sjeroh/github_connect/assets/36749506/7f01b2c4-4f99-4697-ae77-c1f978202064)
 
 
-   git clone https://github.com/sjeroh/hanacard_webprt.git (ex)
+          git clone https://github.com/sjeroh/hanacard_webprt.git (ex)
    
 2. 브렌치(branch) 만들기
 
    "새 가지가 만들어졌다.."
-   git checkout -b "roh" (""안은 이름이나 적고자하는것)
+   
+          git checkout -b "roh" (""안은 이름이나 적고자하는것)
 
 ![image](https://github.com/sjeroh/github_connect/assets/36749506/0cc5c509-361c-411f-bb67-a398e2fd0e0f)
 
-git push origin 이름
+          git push origin 이름
 
 ![image](https://github.com/sjeroh/github_connect/assets/36749506/ee407e51-804d-43e9-a614-98f08f72fab3)
 위와 같이 가지가 생긴다.
